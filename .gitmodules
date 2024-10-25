@@ -1,6 +1,6 @@
 [submodule "Server"]
 	path = Server
-	url = https://github.com/Keadian/EQMacDocker
+	url = https://github.com/Keadian/EQMacEmu
 [submodule "Quests"]
 	path = Quests
 	url = https://github.com/Keadian/quests
