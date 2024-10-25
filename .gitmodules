@@ -1,9 +1,9 @@
 [submodule "Server"]
 	path = Server
-	url = https://github.com/kai-blt/EQMacEmu
+	url = https://github.com/Keadian/EQMacDocker
 [submodule "Quests"]
 	path = Quests
-	url = https://github.com/kai-blt/quests
+	url = https://github.com/Keadian/quests
 [submodule "Maps"]
 	path = Maps
-	url = https://github.com/kai-blt/Maps
+	url = https://github.com/keadian/Maps
